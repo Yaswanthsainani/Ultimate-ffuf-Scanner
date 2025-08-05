@@ -34,7 +34,7 @@
 
 ## 🛠️ Installation  
 ```bash
-git clone https://github.com/yourusername/ultimate-ffuf-scanner.git  
+git clone https://github.com/Yaswanthsainani/ultimate-ffuf-scanner.git  
 cd ultimate-ffuf-scanner  
 chmod +x ffuf_scanner.sh  
 ```
